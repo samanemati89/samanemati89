@@ -1,16 +1,27 @@
-## Hi there 👋
+# Samaneh Nemati
 
-<!--
-**samanemati89/samanemati89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🔬 **Biomedical Data Scientist | Data Manager**
 
-Here are some ideas to get you started:
+- 🌟 **HESTIA Core Manager** at the University of South Carolina  
+- 🤝 Collaborates with **Prisma Health** and other stakeholders to streamline clinical data management  
+- 📊 Specializes in **clinical data analysis**, **predictive modeling**, and **neuroimaging research**  
+- 🧠 Passionate about advancing research in **neurodegenerative disorders**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Technologies & Tools**
+- **Programming:** Python, Bash, MATLAB
+- **Data Tools:** REDCap, scikit-learn, pandas, NumPy
+- **Visualization:** matplotlib, seaborn
+- **Other Skills:** Machine Learning, Data Curation
+
+---
+
+### 🌟 **About Me**
+I bring 8+ years of experience in biomedical data analysis, with a focus on neuroimaging. As the **HESTIA Core Manager**, I lead collaborations to create centralized, anonymized datasets for AI-powered research. I am passionate about using technology and data to solve complex healthcare challenges and drive impactful research.
+
+---
+
+### 📫 **Contact Me**
+- **Email:** [snemati@mailbox.sc.edu](mailto:snemati@mailbox.sc.edu)
+- **LinkedIn:** [linkedin.com/in/samaneh-nemati](https://www.linkedin.com/in/samaneh-nemati/)
