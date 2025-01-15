@@ -18,7 +18,7 @@
 ---
 
 ### 🌟 **About Me**
-I bring 8+ years of experience in biomedical data analysis, with a focus on neuroimaging. As the **HESTIA Core Manager**, I lead collaborations with Prisma Health and other stakeholders to create centralized, anonymized datasets for AI-powered research. I am passionate about using technology and data to solve complex healthcare challenges and drive impactful research, specially in the field of neurodegenerative disorders.
+I bring 8+ years of experience in biomedical data analysis, with a focus on neuroimaging. As the **HESTIA Core Manager**, I lead collaborations with **Prisma Health** and other stakeholders to create centralized, anonymized datasets for AI-powered research. I am passionate about using technology and data to solve complex healthcare challenges and drive impactful research, specially in the field of neurodegenerative disorders.
 
 ---
 
