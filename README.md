@@ -5,7 +5,7 @@
 - 🌟 **HESTIA Core Manager** at the University of South Carolina  
 - 🤝 Collaborates with **Prisma Health** and other stakeholders to streamline clinical data management  
 - 📊 Specializes in **clinical data analysis**, **predictive modeling**, and **neuroimaging research**  
-- 🧠 Passionate about advancing research in **neurodegenerative disorders**  
+- 🧠 Passionate about advancing research in **neurological** and **neurodegenerative** disorders 
 
 ---
 
