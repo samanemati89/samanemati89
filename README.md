@@ -1,6 +1,6 @@
 # Samaneh Nemati
 
-👩‍🔬 **Biomedical Data Scientist | Data Manager**
+👩‍🔬 **Neural Data Scientist**
 
 - 🌟 **HESTIA Core Manager** at the University of South Carolina  
 - 📊 Specializes in **biomedical signals and image processing (EEG, MRI, fMRI)**, **clinical data analysis**, **predictive modeling**, and **neuroimaging research**  
