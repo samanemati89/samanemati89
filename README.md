@@ -69,28 +69,4 @@ Full publication list: [Google Scholar](https://scholar.google.com/citations?use
 - Google Scholar: [Samaneh Nemati](https://scholar.google.com/citations?user=J1O0qn4AAAAJ&hl=en)
 - Email: snemati@mailbox.sc.edu
 
----
 
-## Repository Descriptions to Add
-
-Use these short descriptions in GitHub when editing each repository (click the gear icon on the repo page):
-
-**NeuroBHI:**
-Pipeline for computing regional brain age gaps (BAG) and evaluating associations with behavioral, sensory, and cognitive outcomes. MATLAB-based, applied to multimodal aging cohort data.
-
-**BRIDGE:**
-Behavioral Risk Indicators Driving Gap Estimations. Python ML pipeline evaluating how well behavioral and demographic measures predict brain age gap (BAG) in healthy aging adults.
-
-**GNN-for-Classification:**
-Graph neural network (GNN) implementation using DGL to classify post-stroke aphasia patients and healthy older adults based on structural brain connectivity. Applied to MRI-derived connectome data.
-
-**GCNN_PABC:**
-Graph convolutional neural network for predicting brain-behavior associations in post-stroke aphasia using structural connectome data.
-
-**Pinned repositories (recommended order):**
-1. NeuroBHI
-2. BRIDGE
-3. GNN-for-Classification
-4. GCNN_PABC
-5. BHR_demo2
-6. brain_health_research_hub
