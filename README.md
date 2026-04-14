@@ -10,7 +10,7 @@ Ph.D. in Communication Sciences and Disorders | Biomedical Engineering backgroun
 
 I am a computational neuroscientist specializing in machine learning applied to multimodal neuroimaging (EEG, MRI, fMRI) and clinical data. My research focuses on brain health, healthy aging, hearing loss, cognitive decline, and stroke recovery.
 
-I have 20+ peer-reviewed publications in journals including *Neuroscience*, *NeuroImage*, and *Biological Psychiatry*, and serve as Co-PI on a $650K NIH award. I am currently developing a brain health index methodology with translational and commercial applications.
+I have 20+ peer-reviewed publications in journals including *Neuroscience*, *NeuroImage*, and *Biological Psychiatry*, and serve as Co-PI on a $650K NIH award. I am currently collaborating on a project to develop a brain health index methodology with translational and commercial applications.
 
 My work bridges rigorous academic neuroscience and applied data science, with a focus on building models and tools that have real clinical impact.
 
