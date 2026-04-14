@@ -38,7 +38,7 @@ My work bridges rigorous academic neuroscience and applied data science, with a 
 
 **Visualization:** matplotlib, seaborn, Plotly
 
-**Other:** REDCap, Git, SQL, AWS (S3)
+**Other:** REDCap, Git, SQL
 
 ---
 
