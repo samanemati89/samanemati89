@@ -8,9 +8,9 @@ Ph.D. in Communication Sciences and Disorders | Biomedical Engineering backgroun
 
 ## About Me
 
-I am a computational neuroscientist specializing in machine learning applied to multimodal neuroimaging (EEG, MRI, fMRI) and clinical data. My research focuses on brain health, healthy aging, hearing loss, cognitive decline, and stroke recovery.
+I am a neural data scientist specializing in machine learning applied to multimodal neuroimaging (EEG, MRI, fMRI) and clinical data. My research focuses on brain health, healthy aging, hearing loss, cognitive decline, and stroke recovery.
 
-I have 20+ peer-reviewed publications in journals including *Neuroscience*, *NeuroImage*, and *Biological Psychiatry*, and serve as Co-PI on a $650K NIH award. I am currently collaborating on a project to develop a brain health index methodology with translational and commercial applications.
+I have 20+ peer-reviewed publications in journals including *Neuroscience*, *NeuroImage*, and *Biological Psychiatry*, and serve as Co-PI on a $650K NIH award. I am currently collaborating on a project to develop a brain health index methodology with translational applications.
 
 My work bridges rigorous academic neuroscience and applied data science, with a focus on building models and tools that have real clinical impact.
 
@@ -20,7 +20,7 @@ My work bridges rigorous academic neuroscience and applied data science, with a 
 
 ## Research Interests
 
-- Machine learning and predictive modeling for brain health and aging
+- Machine learning and predictive modeling for brain health in neurological disorders and aging
 - Connectome-based modeling and graph neural networks in neuroscience
 - EEG signal processing and brain-computer interfaces
 - Brain age estimation and biomarker development
@@ -34,7 +34,7 @@ My work bridges rigorous academic neuroscience and applied data science, with a 
 
 **ML / Data:** scikit-learn, PyTorch, DGL (Deep Graph Library), pandas, NumPy, SciPy
 
-**Neuroimaging:** FSL, FreeSurfer, EEGLAB, NiBabel
+**Neuroimaging:** FSL, FreeSurfer, EEGLAB
 
 **Visualization:** matplotlib, seaborn, Plotly
 
