@@ -34,7 +34,7 @@ My work bridges rigorous academic neuroscience and applied data science, with a 
 
 **ML / Data:** scikit-learn, PyTorch, DGL (Deep Graph Library), pandas, NumPy, SciPy
 
-**Neuroimaging:** FSL, FreeSurfer, EEGLAB
+**Neuroimaging:** FSL, FreeSurfer, SPM, EEGLAB
 
 **Visualization:** matplotlib, seaborn, Plotly
 
