@@ -59,6 +59,8 @@ My work bridges rigorous academic neuroscience and applied data science, with a 
 - **Nemati S**, et al. (2025). Gray matter volume as a mediator of the relationship between age-related hearing and cognitive function. *Neuroscience*.
 - **Nemati S**, et al. (2024). The impact of age-related hearing loss on cognitive decline: The mediating role of brain age gap. *Neuroscience*, 551, 185-195.
 - **Nemati S**, et al. (2020). A unique brain connectome fingerprint predates and predicts response to antidepressants. *IScience*.
+- **Nemati S**, et al. (2020). Increased cortical thickness in patients with major depressive disorder following antidepressant treatment. *Chronic Stress*.
+- **Nemati S**, et al. (2019). Lost in music: Neural signature of pleasure and its role in modulating attentional resources. *Brain Research*. 
 
 Full publication list: [Google Scholar](https://scholar.google.com/citations?user=J1O0qn4AAAAJ&hl=en)
 
