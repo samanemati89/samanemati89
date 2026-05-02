@@ -2,7 +2,7 @@
 
 **Neural Data Scientist | Computational Neuroscientist**
 
-Ph.D. in Communication Sciences and Disorders | Biomedical Engineering background | 10+ years in neuroimaging and clinical data science
+Ph.D. in Communication Sciences and Disorders | BSc and MSc in Biomedical Engineering | 10+ years in neuroimaging and clinical data science
 
 ---
 
